@@ -1,6 +1,6 @@
 # [ClashJS](http://javierbyte.github.io/clashjs/)
 
-[![](spec_assets/screenshot.jpg)](http://javierbyte.github.io/clashjs/)
+[![](spec_assets/screenshot.jpg)](http:totaljerkface.com)
 
 [Demo Onine](http://javierbyte.github.io/clashjs/)
 
