@@ -1,8 +1,8 @@
-# [ClashJS](http://javierbyte.github.io/clashjs/)
+# [ClashJS](http://www.totaljerkface.com)
 
 [![](spec_assets/screenshot.jpg)](http:totaljerkface.com)
 
-[Demo Onine](http://javierbyte.github.io/clashjs/)
+[Demo Onine](http://www.totaljerkface.com)
 
 This is an experiment. The idea is to create a battle game, where the participants code their AI, and then we make them fight! You can play by adding your own AI to the game!
 
